@@ -1,0 +1,13 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+
+# Original high-resolution models; the app uses public/models/.
+Models3D/
+
+# Local environment configuration.
+.env
+.env.*
+!.env.example
